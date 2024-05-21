@@ -18,6 +18,8 @@
 
 点击`字典`，查询单个字的意思
 
+注意：使用时请不要开启VPN，否则可能导致万年历和字典无法使用
+
 ![image](https://github.com/mhynbnb/meihua/assets/66502853/3d04bf0e-4a87-4856-8737-b1df8f89d249)
 
 ![image](https://github.com/mhynbnb/meihua/assets/66502853/8e4e08f1-9066-4730-8fbe-fb484b7b613b)
